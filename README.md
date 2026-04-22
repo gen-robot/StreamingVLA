@@ -162,9 +162,9 @@ We provide an example on [LIBERO Benchmark](examples/libero/README.md).
 - Real-world speedup: about **1.58x**
 
 ## Citation
-
+If you find our code or models useful in your work, please cite [our paper](https://arxiv.org/abs/2603.28565):
 ```bibtex
-@misc{shi2026streamingvlastreamingvisionlanguageactionmodel,
+@misc{shi26streamingvla,
   title={StreamingVLA: Streaming Vision-Language-Action Model with Action Flow Matching and Adaptive Early Observation},
   author={Yiran Shi and Dongqi Guo and Tianchen Zhao and Feng Gao and Liangzhi Shi and Chao Yu and ZhiJian Mo and Qihua Xiao and XiaoShuai Peng and Qingmin Liao and Yu Wang},
   year={2026},
