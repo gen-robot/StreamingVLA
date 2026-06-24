@@ -448,6 +448,7 @@ _CONFIGS = [
             repo_id="/path/to/libero_dataset_with_action_states",
             base_config=DataConfig(prompt_from_task=True),
             extra_delta_transform=False,
+            use_action_states=True,
         ),
         batch_size=16,
         lr_schedule=_optimizer.CosineDecaySchedule(
